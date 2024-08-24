@@ -1,4 +1,4 @@
-#   ![Mugisha Ivan Jalagatha ](https://www.flaticon.com/free-icon/rocket_1356479?term=rocket&page=1&position=2&origin=search&related_id=1356479 width="128px") To-Do-List
+#   ![Mugisha Ivan Jalagatha ](./img/rocket.png) To-Do-List
   ## Project Description
 This project  a collection of your work, experiences, and achievements that showcases A person's skills, expertise, and accomplishments.
 ## Project Features
@@ -22,7 +22,7 @@ This project  a collection of your work, experiences, and achievements that show
 - CSS
 -Javascript
 ## Web Hosting of Project
- This Project is hosted on vercel, For more Information visit the  Website Url  at :  
+ This Project is hosted on vercel, For more Information visit the  Website Url  at : https://todo-list-app-three-tan.vercel.app/ 
 ## Github Repository 
  Github Repository :
 ## About me
