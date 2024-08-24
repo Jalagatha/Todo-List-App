@@ -1,4 +1,6 @@
-#   ![Mugisha Ivan Jalagatha ](./img/rock.png) To-Do-List
+#   Mugisha Ivan Jalagatha  To-Do-List
+
+<img src="./img/rock.png" width="200" height="200"/>
   ## Project Description
 This project  a collection of your work, experiences, and achievements that showcases A person's skills, expertise, and accomplishments.
 ## Project Features
