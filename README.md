@@ -1,4 +1,4 @@
-#   Mugisha Ivan Jalagatha   (<img src="./img/rock.png" width="40" height="40"/>) To-do-List App
+#   Mugisha Ivan Jalagatha   <img src="./img/rock.png" width="30" height="30"/>To-do-List App
  
   ## Project Description
 This project  a collection of your work, experiences, and achievements that showcases A person's skills, expertise, and accomplishments.
