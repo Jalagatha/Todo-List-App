@@ -31,7 +31,8 @@ I am a software developer with a passion for building innovative and user-friend
 ## Contact Information
 Email: [mugishajalagatha@gmail.com](mailto:jalagatha@gmail.com)
 Phone: +256 778529061
-Image:![Mugisha Ivan Jalagatha](./img/i.jpg)
+My Profile
+<img src="./img/i.jpg" width="80" height="80"/>
 ## Project Status
 This project is currently in development and is expected to be completed within the next 2 days.
 ## Project Roadmap
